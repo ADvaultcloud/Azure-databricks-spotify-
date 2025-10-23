@@ -1,0 +1,9 @@
+{
+	"name": "df-adarshspotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5db25086-e7de-4b8d-9cb6-67137920c5dc",
+		"tenantId": "d6232c63-59f2-45c6-96c7-7cb3fac05be8"
+	}
+}
